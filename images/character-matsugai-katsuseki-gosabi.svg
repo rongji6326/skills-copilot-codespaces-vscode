@@ -1,0 +1,58 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 1000" width="800" height="1000">
+  <!-- Background -->
+  <rect width="800" height="1000" fill="#f5f5f5"/>
+  
+  <!-- Decorative frame -->
+  <rect x="50" y="50" width="700" height="900" fill="none" stroke="#e0e0e0" stroke-width="2" rx="10"/>
+  
+  <!-- Character silhouette placeholder -->
+  <ellipse cx="400" cy="300" rx="120" ry="140" fill="#d0d0d0"/>
+  <ellipse cx="400" cy="550" rx="150" ry="250" fill="#d0d0d0"/>
+  
+  <!-- Character name in artistic style -->
+  <text x="400" y="850" font-family="Arial, sans-serif" font-size="32" fill="#333" text-anchor="middle" font-weight="bold">
+    松巷·胜石·歌莎毕
+  </text>
+  <text x="400" y="890" font-family="Arial, sans-serif" font-size="20" fill="#666" text-anchor="middle">
+    Matsugai Katsuseki Gosabi
+  </text>
+  
+  <!-- Design inspiration badges -->
+  <g transform="translate(100, 120)">
+    <circle cx="0" cy="0" r="30" fill="#fff" stroke="#9c27b0" stroke-width="2"/>
+    <text x="0" y="5" font-family="Arial, sans-serif" font-size="12" fill="#9c27b0" text-anchor="middle" font-weight="bold">友利</text>
+  </g>
+  
+  <g transform="translate(700, 120)">
+    <circle cx="0" cy="0" r="30" fill="#fff" stroke="#2196f3" stroke-width="2"/>
+    <text x="0" y="5" font-family="Arial, sans-serif" font-size="12" fill="#2196f3" text-anchor="middle" font-weight="bold">千反田</text>
+  </g>
+  
+  <g transform="translate(100, 480)">
+    <circle cx="0" cy="0" r="30" fill="#fff" stroke="#4caf50" stroke-width="2"/>
+    <text x="0" y="5" font-family="Arial, sans-serif" font-size="12" fill="#4caf50" text-anchor="middle" font-weight="bold">三叶</text>
+  </g>
+  
+  <g transform="translate(700, 480)">
+    <circle cx="0" cy="0" r="30" fill="#fff" stroke="#ff9800" stroke-width="2"/>
+    <text x="0" y="5" font-family="Arial, sans-serif" font-size="12" fill="#ff9800" text-anchor="middle" font-weight="bold">一里</text>
+  </g>
+  
+  <g transform="translate(400, 730)">
+    <circle cx="0" cy="0" r="30" fill="#fff" stroke="#f44336" stroke-width="2"/>
+    <text x="0" y="5" font-family="Arial, sans-serif" font-size="12" fill="#f44336" text-anchor="middle" font-weight="bold">麻衣</text>
+  </g>
+  
+  <!-- Placeholder text -->
+  <text x="400" y="300" font-family="Arial, sans-serif" font-size="18" fill="#666" text-anchor="middle">
+    Character Illustration
+  </text>
+  <text x="400" y="330" font-family="Arial, sans-serif" font-size="14" fill="#999" text-anchor="middle">
+    Placeholder
+  </text>
+  
+  <!-- Footer note -->
+  <text x="400" y="950" font-family="Arial, sans-serif" font-size="14" fill="#999" text-anchor="middle" font-style="italic">
+    Artwork to be created by professional artist
+  </text>
+</svg>
