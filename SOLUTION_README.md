@@ -12,11 +12,11 @@ Given a parameter `x` and an `n×n` matrix, output the matrix elements in a spec
 
 ### Input Format
 - First line: integer `x` (where `x ∈ {0, 45, 47, 124}`)
-- Second line: integer `n` (1 ≤ n³ ≤ 667,428), the dimension of the square matrix (n is always odd)
-- Next n lines: n integers each, representing the matrix elements (1 ≤ a[i,j] ≤ 667,428)
+- Second line: integer `n` (1 ≤ n² ≤ 667,428), the dimension of the square matrix (n is always odd)
+- Next n lines: n integers each, representing the matrix elements (1 ≤ matrix[i][j] ≤ 667,428)
 
 ### Output Format
-- One line containing n×n integers separated by spaces
+- One line containing n² integers (all matrix elements) separated by spaces
 
 ## Solutions
 
