@@ -111,6 +111,8 @@ legend_handles += [
 ax.legend(handles=legend_handles, loc='upper right', fontsize=9,
           framealpha=0.9, edgecolor='gray')
 
+ax.set_title('城市绿色物流配送路径可视化', fontsize=14)
+
 plt.tight_layout()
 plt.savefig('route_map.png', dpi=150, bbox_inches='tight')
 print("Saved route_map.png")
